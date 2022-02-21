@@ -1,5 +1,5 @@
 # Use an official Python runtime as a parent image
-FROM python:3-alpine
+FROM python:3.11.0a5-alpine
 
 
 MAINTAINER Mengdi Wei "mwei6@ucsc.edu"
